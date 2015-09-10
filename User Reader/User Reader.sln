@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Reader", "User Reader\User Reader.csproj", "{9C60BB72-84EB-4D53-BB06-314E533E6C83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try Parse Bool", "Try Parse Bool\Try Parse Bool.csproj", "{AC9AAFA1-C1B6-4FA7-8C26-09B8BA5B4054}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9C60BB72-84EB-4D53-BB06-314E533E6C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C60BB72-84EB-4D53-BB06-314E533E6C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C60BB72-84EB-4D53-BB06-314E533E6C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9AAFA1-C1B6-4FA7-8C26-09B8BA5B4054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9AAFA1-C1B6-4FA7-8C26-09B8BA5B4054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9AAFA1-C1B6-4FA7-8C26-09B8BA5B4054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9AAFA1-C1B6-4FA7-8C26-09B8BA5B4054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
